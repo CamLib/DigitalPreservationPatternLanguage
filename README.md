@@ -20,7 +20,7 @@ The idea behind putting the Digital Preservation Pattern Language is to keep the
 
 ## What's a pattern language?
 
-Our [blog post on the Polonsky project website] (http://www.dpoc.ac.uk/2016/11/11/digital-preservation-pattern-language/) describes pattern languages in more detail (and links to some even more detailed descriptions), but the shortest way to describe a *pattern* is to quote one of the two books which are credited with inventing the concept: *A Pattern Language - towns, buildings, construction* by Christopher Alexander et al. This describes a patterns like so:
+Our [blog post on the Polonsky project website] (http://www.dpoc.ac.uk/2016/11/11/digital-preservation-pattern-language/) describes pattern languages in more detail (and links to some even more detailed descriptions), but the shortest way to describe a *pattern* is to quote one of the two books which are credited with inventing the concept: *A Pattern Language - towns, buildings, construction* by Christopher Alexander et al. This describes patterns like so:
 
 >The elements of this [architectural] language are entities called patterns. Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.
 
