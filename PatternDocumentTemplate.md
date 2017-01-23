@@ -57,6 +57,10 @@ These are additional to Coplein's suggested pattern structure and are inspired b
 
 The more general pattern that this pattern forms part of the solution too.
 
+### Sibling patterns
+
+Any patterns that are directly in the same contextual space, **and at the same level of abstraction** as the pattern being described.
+
 ### Child patterns
 
 The more specific (and usually more technical) children of this pattern, which explain problems and solutions in more detail.

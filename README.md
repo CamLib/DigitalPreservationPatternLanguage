@@ -10,6 +10,12 @@ One of the first things we did when we started the project was to go in search o
 
 There's a blog post about the idea of [developing a Digital Preservation pattern language](http://www.dpoc.ac.uk/2016/11/11/digital-preservation-pattern-language/) on the DPOC website which explains the thinking behind this idea in more detail, but the fundamental purpose is to **try and describe as much of the Digital Preservation domain as possible in plain English**. As with a lot of technical domains, there's a lot of jargon, and that can cause frustrating (and expensive) misunderstandings.
 
+## A map of the overall domain
+
+![Digital Preservation Pattern Map](https://github.com/CamLib/DigitalPreservationPatternLanguage/blob/Development/Images/DigitalPreservationPatternMap.png)
+
+The top level pattern that describes the whole domain is the [Digital Preservation pattern](DigitalPreservation.md) itself.
+
 ## Why is it in GitHub?
 
 The idea behind putting the Digital Preservation Pattern Language is to keep the pattern language as light-weight as possible, and to try and encourage people to use it and adapt it to their own needs. To that end:
@@ -30,3 +36,5 @@ So the point is that we're not trying to be proscriptive about 'how to do Digita
 2. Fork this repo, re-write the pattern so it fits how you would describe the situation, and then generate a pull request to suggest the changes.
 
 We'll consider all serious suggestions seriously.
+
+There's also a [pattern document template](PatternDocumentTemplate.md) to use based upon James O. Coplein's proposal of what makes a good pattern, to use as a basis for any patterns you may wish to add, too. If you want to add to the structure, please add to the comments at the top of the template to explain the reasons why.
