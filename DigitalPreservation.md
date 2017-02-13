@@ -70,4 +70,4 @@ The following patterns are all at the lower "elevator pitch" level of abstractio
 
 * Source digital materials to preserve
 * Get digital materials under control
-* Maintain the usefulness of digital materials
+* [Maintain the usefulness of digital materials](MaintainTheUsefulnessOfThings.md)

@@ -55,7 +55,7 @@ These are additional to Coplein's suggested pattern structure and are inspired b
 
 ### Parent pattern
 
-The more general pattern that this pattern forms part of the solution too.
+The more general pattern that this pattern forms part of the solution to.
 
 ### Sibling patterns
 
