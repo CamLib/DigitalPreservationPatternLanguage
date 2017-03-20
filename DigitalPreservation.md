@@ -32,7 +32,7 @@ Digital Preservation is therefore a long-term process of monitoring for the effe
 
 ## Solution
 
-There are three key aspects to solving the Digital Preservation problem. Firstly, as the solution is an ongoing process that demands constant use of resources, it is important to **source things to preserve** as effectively as possible. Secondly, digital materials deemed worthy of preservation must be **brought under control**: this means organising them effectively to prevent obscurity and enable planning that prevents future obsolescence. Thirdly, Digital Preservation involves **maintaining the usefulness** of digital materials by counteracting obsolescence, obscurity and degradation, in perpetuity.
+There are three key aspects to solving the Digital Preservation problem. Firstly, as the solution is an ongoing process that demands constant use of resources, it is important to [source things to preserve](SourceThingsToPreserve.md) as effectively as possible. Secondly, digital materials deemed worthy of preservation must be **brought under control**: this means organising them effectively to prevent obscurity and enable planning that prevents future obsolescence. Thirdly, Digital Preservation involves [maintaining the usefulness](MaintainTheUsefulnessOfThings.md) of digital materials by counteracting obsolescence, obscurity and degradation, in perpetuity.
 
 The above description constitutes an 'elevator pitch' for Digital Preservation.
 
@@ -45,7 +45,7 @@ Enacting Digital Preservation results in digital materials that remain useful, u
 
 ## Rationale
 
-The Digital Preservation pattern relates in some ways to the practices of archiving physical materials, but with crucial differences in practical implementation that may often seem counter-intuitive to people with traditional archiving skills and knowledge. This may particularly be the case when maintaining the usefulness of files, as digital materials and their surrounding contexts may need to be altered, or otherwise 'touched' more often than they would expect with physical materials.
+The Digital Preservation pattern relates in some ways to the practices of archiving physical materials, but with crucial differences in practical implementation that may often seem counter-intuitive to people with traditional archiving skills and knowledge. This may particularly be the case when maintaining the usefulness of files, as digital materials and their surrounding contexts may need to be altered, or otherwise 'touched' more often than one would expect with physical materials.
 
 In contrast, the Digital Preservation pattern may have aspects that are counter-intuitive to some of the attitudes and approaches of software developers and other Information Technology practitioners. The nature of such work is still comparatively new (i.e. it is not much more than half a century since 'Computer Science' became a widespread subject), and so the overall domain of Information Technology is still forward-thinking to the extent that obsolesence is still considered an acceptable aspect of the domain. **While this remains the case, a tremendous amount of 'born-digital' human knowledge remains at risk**.
 
@@ -68,6 +68,6 @@ The following patterns are all at the same "whole domain" level of abstraction:
 
 The following patterns are all at the lower "elevator pitch" level of abstraction:
 
-* Source digital materials to preserve
+* [Source digital materials to preserve](SourceThingsToPreserve.md)
 * Get digital materials under control
 * [Maintain the usefulness of digital materials](MaintainTheUsefulnessOfThings.md)

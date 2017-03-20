@@ -59,7 +59,7 @@ This pattern is at the 'elevator pitch' level of abstraction, that is - one leve
 
 ### Sibling patterns
 
-* Source things to preserve.
+* [Source things to preserve](SourceThingsToPreserve.md)
 * Get things under control.
 
 ### Child patterns
