@@ -9,16 +9,16 @@ Digital materials such as computer files or pieces of executable software have a
 
 ## Context
 
-Digital files are different from physical equivalents such as paper because the information they contain is separate from the mechanisms that are used to store and present their information. 
+Digital files are different from physical equivalents such as paper because the information they contain is entirely separate from the mechanisms that are used to store and present it. 
 
-For example, the information in a paper document is formed by the ink printed onto the paper itself in the form of words. In a word-processor file, the physical manifestation of the information is in the form of a sequence of binary information (typically thought of as '1s and 0s'), usually stored on a magnetic or optical disk. This means the usefulness of digital files depends upon the software needed to interpret their binary sequences. This immediately makes the task of preserving the information more complex, as there is a need to also preserve the interpretation software.
+For example, the information in a paper document is formed by the ink printed onto the paper itself in the form of words. In a word-processor file, the physical manifestation of the information is in the form of sequences of binary information (typically thought of as '1s and 0s'), usually scattered across various physical locations on a magnetic or optical disk. This means the usefulness of digital files depends upon the software needed to interpret their binary sequences. This immediately makes the task of preserving the information more complex, as there is a need to also preserve the method of interpretation, which normally takes the form of interpretation software.
 
-Preserving software is more complicated still as software relies upon other software, in particular the lower-level software (often referred to as the Operating System, or sometimes just 'the software environment') required to display it and manage user interaction with it when it runs. This can result in a need to similarly preserve the environments (and in some cases even the hardware - the physical pieces of computer equipment) required to run the software, which is in turn needed to interpret the preserved information.
+Preserving software is more complicated still as software relies upon other software, in particular the lower-level software (often referred to as the Operating System, or sometimes just 'the software environment') required to run it and manage user interaction with it. This can result in a need to similarly preserve the environments (and in some cases even the hardware - the physical pieces of computer equipment) required to run the software, which is in turn needed to interpret the preserved information.
 
 
 ## Forces
 
-The key forces that causes the Digital Preservation problem are **obsolescence**, **obscurity** and **degradation**. 
+The key forces that cause the Digital Preservation problem are **obsolescence**, **obscurity** and **degradation**. 
 
 **Obsolescence** is caused by the creation of new technology that replaces existing technology. This results in the gradual (or sometimes rapid) loss of knowledge about existing software and hardware as newer versions replace them. When old software is no longer executable, because the technologies it depends upon no longer exist, or the knowledge required to execute it is no longer available, then the information and knowledge contained in files that depend upon that old software is lost.
 
@@ -32,7 +32,7 @@ Digital Preservation is therefore a long-term process of monitoring for the effe
 
 ## Solution
 
-There are three key aspects to solving the Digital Preservation problem. Firstly, as the solution is an ongoing process that demands constant use of resources, it is important to [source things to preserve](SourceThingsToPreserve.md) as effectively as possible. Secondly, digital materials deemed worthy of preservation must be **brought under control**: this means organising them effectively to prevent obscurity and enable planning that prevents future obsolescence. Thirdly, Digital Preservation involves [maintaining the usefulness](MaintainTheUsefulnessOfThings.md) of digital materials by counteracting obsolescence, obscurity and degradation, in perpetuity.
+There are three key aspects to solving the Digital Preservation problem. Firstly, as the solution is an ongoing process that demands constant use of resources, it is important to [source things to preserve](SourceThingsToPreserve.md) as effectively as possible. Secondly, digital materials deemed worthy of preservation must be [brought under control](GetThingsUnderControl.md): this means organising them effectively to prevent obscurity and enable planning that prevents future obsolescence. Thirdly, Digital Preservation involves [maintaining the usefulness](MaintainTheUsefulnessOfThings.md) of digital materials by counteracting obsolescence, obscurity and degradation, in perpetuity.
 
 The above description constitutes an 'elevator pitch' for Digital Preservation.
 
@@ -69,5 +69,5 @@ The following patterns are all at the same "whole domain" level of abstraction:
 The following patterns are all at the lower "elevator pitch" level of abstraction:
 
 * [Source digital materials to preserve](SourceThingsToPreserve.md)
-* Get digital materials under control
+* [Get digital materials under control](GetThingsUnderControl.md)
 * [Maintain the usefulness of digital materials](MaintainTheUsefulnessOfThings.md)
